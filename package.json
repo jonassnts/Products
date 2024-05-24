@@ -1,0 +1,17 @@
+{
+  "name": "produtos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
